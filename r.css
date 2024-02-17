@@ -1,0 +1,61 @@
+html{
+    background-color: #A60000;
+}
+header{
+    background-color: #A7F43D;
+    height: 150px;
+    border-radius: 10px;
+}
+.t{
+    text-align: center;
+    margin: 0px;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    margin-left: 70px;
+}
+header img{
+    width: 90px;
+    height: 90px;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+h1{
+    margin:20px;
+    background-color: #A7F43D;
+    text-align: center;
+    border-radius: 10px;
+}
+main{
+
+}
+body {
+    font-family: sans-serif;
+    background:
+    url("https://img.freepik.com/free-vector/red-silk-curtain-background_1048-11014.jpg") no-repeat 50% 40%,
+    url("") no-repeat 70% 90%,
+    url("") no-repeat 90% 70%
+}
+li{
+    margin:20px;
+    background-color: #A7F43D;
+    border-radius:10px;
+    font-size: 20px;
+}
+footer{
+    font-size: 20px;
+    background-color: #A60000;
+    padding: 1px;
+    border-radius: 10px;
+}
+.h{
+    background-color: #A7F43D;
+    color:black;
+    padding: 2px;
+    border-radius: 10px;
+}
+ul{
+    list-style: url(/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg);
+}
